@@ -2,7 +2,7 @@
 print("Welcome to Band Name Generator!")
 
 #Asking user input for the city name they grew up in 
-city = input("Wrtie the name of the city that you grew up in\n")
+city = input("Write the name of the city that you grew up in\n")
 
 #Asking user input for their pet's name
 petname = input("Write the name of your pet\n") 
